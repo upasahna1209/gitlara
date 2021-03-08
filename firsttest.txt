@@ -1,0 +1,3 @@
+this is my third git code is good
+
+i want this to commit old
